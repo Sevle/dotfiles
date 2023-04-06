@@ -1,0 +1,13 @@
+#!/bin/sh
+
+WINDOWS_ISO="$HOME/projetos/windows-virtual/WindowsOS.iso"
+DISK_SPACE="$HOME/projetos/windows-virtual/disk.qcow2"
+PUBLIC="$HOME/público"
+
+qemu-system-x86_64 -smp threads=2 -boot d -cdrom $WINDOWS_ISO -m 2G -drive file=$DISK_SPACE \
+    -virtfs local,path=$PUBLIC,mount_tag=host0,security_model=passthrough -device intel-hda \
+    -device hda-duplex -netdev user,id=user0 -device e1000,netdev=user0 -enable-kvm
+
+# \\10.0.2.2\host
+# -netdev tap,id=net1,ifname=wlo1,script=no,downscript=no
+# -device e1000,netdev=user1
