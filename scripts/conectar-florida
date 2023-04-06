@@ -1,7 +1,0 @@
-#!/bin/bash
-
-hciconfig hci0 up
-hcitool scan
-
-discoverable on
-pairable on

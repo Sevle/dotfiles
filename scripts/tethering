@@ -1,5 +1,0 @@
-#!/bin/bash
-
-ip link set up usb0
-dhclient
-echo 'conexão via usb tethering funcionando'
