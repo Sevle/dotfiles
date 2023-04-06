@@ -1,0 +1,1803 @@
+ls
+clear
+neofetch
+ls
+cd .config
+clear
+ls
+cd zsh
+clear
+ls
+ls -la
+rm .zsh_history
+clear
+cat zsh_history
+cat zsh_history
+exit
+alsamixer
+clear
+exit
+alsamixer
+ls
+cd .config
+clear
+ls
+cd zh
+cd zsh
+clear
+ls
+cat zsh_history
+clear
+sudo apt-get install libc6-i386
+dpkg --force-all --configure -a
+doas dpkg --force-all --configure -a
+doas dpkg --force-all --configure -a
+doas apt --fix-broken install
+doas apt --fix-broken install
+sudo apt-get install libc6-i386
+sudo apt-get install libc6-i386
+clear
+dpkg --print-architecture
+cd
+clear
+sudo apt-get install libc6-i386
+sudo apt-get install libc6-i386
+sudo apt update
+sudo apt update
+sudo apt --fix-broken install
+sudo apt upgrade
+sudo apt install libc6-i386
+sudo apt install libc6-i386
+sudo apt remove libc6
+clear
+sudo dpkg --add-architecture i386
+sudo dpkg --add-architecture i386
+clear
+doas apt update && doas apt upgrade
+doas apt install steam
+doas steam
+steam
+su
+su
+ls
+ls internet
+cd internet
+ls
+clear
+doas apt install libreoffice
+doas apt install libreoffice
+sudo apt-get install python3-uno
+dpkg --get-selections | grep hold
+clear
+sudo apt-get install libreoffice
+sudo apt-get install libreoffice
+sudo apt-get install python3-uno5C
+sudo apt-get install python3-uno
+clear
+sudo apt-get install python3-uno
+sudo apt-get update && sudo apt-get upgrade
+clear
+sudo apt-get install python3.7
+sudo apt-get install python3=3.9.2-3
+doas apt install libreoffice
+doas apt --fix-broken install
+doas apt autoremove
+exit
+alsamixer
+exit
+lsblk
+sudo cryptsetup luksChangeKey /dev/sda3
+sudo cryptsetup luksChangeKey /dev/sda3
+sudo cryptsetup luksChangeKey /dev/sda3
+sudo cryptsetup luksChangeKey /dev/sda3
+e
+clear
+alsamixer
+exit
+exit
+neofetch
+clear
+df -h
+clear
+uname -a
+clear
+clear
+nmcli dev wifi list
+clear
+ls
+ls -a
+clear
+exit
+exit
+ls -a
+cat .zsh_history
+rm .zsh_history
+clear
+ls
+ls -a
+shutdown --help
+clear
+ls -a
+ls .profile
+ls -l
+ls -la
+cat .profiles
+cat .profile
+clear
+ls -la
+cd documentos
+ls
+mkdir bash-config
+cd bash-config
+mv -t . ~/.bash_history ~/.bash_logout ~/.bashrc ~/.profile
+ls
+lcear
+clear
+ls
+ls -a
+cd ..
+clear
+cd ..
+clear
+ls -a
+ls exit
+exit
+cd projetos/suckless
+ls
+cd dwm
+clear
+ls
+cd dwm-bar
+clear
+ls
+cd bar-functions
+ls
+cd..
+cd ..
+clear
+ls
+nvim dwm_bar
+cd bar-functions
+clear
+ls
+nvim dwm_battery.sh
+clear
+nvim dwm_battery.sh
+ls
+nvim dwm_resources.sh
+nvim dwm_battery.sh
+clear
+cd
+clear
+neofetch
+clear
+ls
+cd projetos
+ls
+clear
+cd suckless
+clear
+ls
+mkdir ~/documentos/backup
+mv dmenu-5.2 dmenu
+clear
+ls
+mv dwm-backup ~/documentos/backup 
+cp -r st st-backup
+clear
+ls
+mv st-backup ~/documentos/backup
+clear
+ls
+cd dmenu
+clar
+clear
+ls
+cd..
+cd ..
+clear
+ls
+cd ..
+clear
+ls
+cd..
+clear
+cd ..
+clear
+ls -a
+clear
+startx
+clear
+uname -a
+clear
+startx
+clear
+exit
+history
+clear
+cat ~/.config/zsh/zsh_history
+cat ~/.config/zsh/zsh_history | less
+ls -a
+cat ~/.config/zsh/zsh_history | less
+HISTORY
+nvim .zshrc
+nvim ~/.config/zsh/zsh_history
+exit
+nvim ~/.config/zsh/zsh_history
+backgammon
+ip link show
+clear
+alsamixer
+clear
+doas apt install Pacman4console
+sudo apt-get install pacman4console
+sudo apt-get install pacman4console nsnake ninvaders bastet
+clear
+bastet
+bastet
+bastet
+clear
+cd games
+clear
+nvim games_CLI.sh
+nsnake
+nsnake
+bastet
+nvim games_CLI.sh
+pacman4console
+ninvaders
+cd
+ls documentos
+ls -la documentos
+cd documentos
+clear
+ls
+clear
+doas tethering
+doas tethering
+clear
+doas tethering
+nvim tethering
+cd
+clear
+doas tethering
+nvim tethering
+clear
+l
+clear
+ip link show
+clear
+ip link show
+cd .config
+clear
+ls nvim
+cd nvim
+clear
+ls
+nvim init.vim
+exit
+ls
+clear
+cd projetos
+clear
+ls
+cd suckless
+clear
+ls
+cd dwm
+clear
+l
+clear
+l
+clear
+ls
+cd dwm-ar
+cd dwm-bar
+ls
+cd bar-functions
+celar
+clear
+ls
+nvim dwm_battery.sh
+ls
+nvim dwm_weather.sh
+nvim dwm_weather.sh
+clear
+ls
+cd
+clear
+ls
+ls internet
+clear
+ls -la
+cd internet
+clear
+ls -la
+zip 
+cmatrix
+cmatrix
+ls
+ls -a
+ls -la
+cat .Xauthority
+nvim .xinitrc
+~~~~~~~~~~
+clear
+doas tethering
+doas tethering
+doas apt update && doas apt upgrade
+doas apt update && doas apt upgrade
+doas apt autoremove
+doas apt autoremove
+clear
+doas apt isntall cmatrix
+doas apt isntall cmatrix
+doas apt install cmatrix
+clear
+cmatrix
+cmatrix
+cmatrix
+ip link show
+clear
+clear
+ls
+clear
+startx
+clear
+exit
+ls
+ls -a
+cd documentos
+ls
+clear
+cd..
+clear
+ls
+cd projetos/suckless/
+cd ..; cd projetos/suckless/
+clear
+ls
+cd dwm
+clear
+ls
+cd dwm-bar
+clear
+ls
+cd bar-functions
+clear
+ls
+nvim dwm_weather.sh
+clear
+nvim dwm_date.sh
+cmatrix
+doas systemctl shutdown now
+doas systemctl poweroff
+clear
+startx
+cler
+clear
+startx
+clear
+startx
+clear
+startx
+clear
+startx
+clear
+startx
+clear
+startx
+clear
+startx
+clear
+startx
+doas tethering
+clear
+bastet
+clear
+bastet
+bastet
+bastet
+bastet
+bastet
+clear
+cat ~/games/games_CLI.sh
+ninvaders
+lx
+cler
+clear
+startx
+\
+doas systemctl poweroff
+ping www.google.com
+clear
+ls
+cd projetos
+cd suckless
+cd dwm
+cd dwm-bar
+clear
+ls
+cd bar-functions
+ls
+nvim dwm_weather.sh
+cd
+clear
+ls
+mv 'Comprovante de Situação Cadastral no CPF.pdf' documentos
+cd documentos
+ls
+clear
+exit
+alsamixer
+clear
+qemu
+clear
+neofetch
+clear
+doas apt install nnn
+nnn
+doas apt install cava
+cava
+doas apt install pulseaudio
+pulseaudio
+clear
+doas systemctl start pulseaudio
+doas pulseaudio
+doas apt remove pulseaudio
+clear
+exit
+cd projetos
+clear
+ls
+cd suckless
+clear
+ls
+cd dwm
+clear
+ls
+cd dwm-bar
+clear
+ls
+cd bar-functions
+clear
+ls
+nvim dwm_date.sh
+alsamixer
+clear
+cava
+cava
+cava
+clear
+cava
+apt install libfftw3-dev libasound2-dev libncursesw5-dev libpulse-dev libtool automake autoconf-archive libiniparser-dev libsdl2-2.0-0 libsdl2-dev
+doas apt install libfftw3-dev libasound2-dev libncursesw5-dev libpulse-dev libtool automake autoconf-archive libiniparser-dev libsdl2-2.0-0 libsdl2-dev
+cava
+ls .config
+cd .config
+clear
+ls
+cd cava
+ls
+nvim config
+cava
+sudo modprobe snd_aloop
+clear
+aplay -L
+doas nvim /etc/modules
+doas nvim /etc/modprobe.d/alsa-base.conf
+doas nvim /etc/modprobe.d/alsa-base.conf
+cava
+clear
+nnn --help
+doas apt install btop
+btop
+btop
+ls
+cd projetos
+clear
+ls
+cd suckless
+clear
+ls
+cd dwm
+cd dwm-bar
+clear
+ls
+cd bar-functions
+clear
+ls
+cd ..
+clear
+ls
+nvim dwm_bar
+clear
+clear
+startx
+startx
+clea
+clear
+startx
+clear
+startx
+clear
+startx
+startx
+clear
+startx
+exut
+exit
+alsamixer
+sudo apt-get install qemu
+doas apt autoremove
+clear
+qemu-img create -f qcow2 disk.qcow2 30G
+ls
+ls internet
+cd internet
+unzip Win-10-Lite-NASA-V3-By-Help-Tutor_681144.zip
+doas apt install wine
+ls
+cd ..
+ls
+cava
+sudo systemctl restart cava
+sudo systemctl restart cava
+cava
+cat ~/.config/cava/config
+ls internet
+qemu-system-x86_64 -boot d -cdrom ~/internet/ReviOS-10-23.03.iso -m 2G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+qemu-system-x86_64 -boot d -cdrom ~/internet/ReviOS-10-23.03.iso -m 2G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+qemu-system-x86_64 -boot d -cdrom ~/internet/ReviOS-10-23.03.iso -m 2G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+ls]
+ls
+qemu-system-x86_64 -boot d -cdrom ~/internet/ReviOS-10-23.03.iso -m 3G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+clear
+qemu-system-x86_64 -boot d -cdrom ~/internet/ReviOS-10-23.03.iso -m 3G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+ls
+cd projetos
+ls
+mkdir windows-virual
+ls
+cd ..
+ls
+mv disk.qcow2 ~/projetos/windows-virual
+cd internet
+ls
+mv ReviOS-10-23.03.iso ~/projetos/windows-virual
+clear
+cd ..
+clear
+ls
+cd projetos
+ls
+cd windows
+clear
+ls
+cd windows-virual
+clear
+ls
+qemu-system-x86_64 -boot d -cdrom ReviOS-10-23.03.iso -m 3G -drive file=disk.qcow2,format=qcow2 -enable-kvm
+doas tethering
+clear
+ls
+nvim windows-start.sh
+clear
+ls
+sh windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+nvim windows-start.sh
+qemu-system-x86_64 -smp 2 -boot d -cdrom ReviOS-10-23.03.iso -m 3G -drive file=disk.qcow2
+qemu-system-x86_64 -smp 1 -boot d -cdrom ReviOS-10-23.03.iso -m 3G -drive file=disk.qcow2
+clear
+ls
+nvim windows-start.sh
+cd projetos
+cd windows-virual
+clear
+ls
+nvim windows-start.sh
+clear
+sh windows-start.sh
+ls
+cd projets
+cd projetos
+clear
+ls
+cd windows-virual
+clear
+ls
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+doas systemctl poweroff
+clear
+startx
+clear
+startx
+startx
+startx
+clear
+startx
+clear
+startx
+ls
+cd projetos
+clear
+ls
+cd windows-virual
+clear
+ls
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+clear
+sh windows-start.sh
+ls
+neofetch
+exit
+cd projetos
+l
+ls
+cd windows-virual
+clear
+ls
+cat windows-start.sh
+cat windows-start.sh
+clear
+doas tethering
+cd
+exit
+cava
+doas cava
+clear
+cd projetos
+clear
+ls
+cd windows-virual
+clear
+ls
+sh windows-start.sh
+nvim windows-start.sh
+clear
+ls
+mv ReviOS-10-23.03.iso WindowsOS.iso
+clear
+ls
+nvim windows-start.sh
+clear
+zsh windows-start.sh
+nvim windows-start.sh
+clear
+zsh windows-start.sh
+nvim windows-start.sh
+zsh windows-start.sh
+doas apt install qemu-utils
+qemu-audio-daemon 
+qemu-audio-daemn -m alsa -p 1024 -d
+clear
+ls
+nvim windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+sh windows-start.sh &
+clear
+ls
+clear
+neofetch
+clear
+btop
+clear
+doas systemctl poweroff
+doas systemctl poweroff
+clear
+start
+startx
+clear
+startx
+cd projetos
+cd windows-virual
+ls
+cat windows-start.sh
+ls ~q/
+ls ~/
+exit
+ls
+cd projetos
+clear
+ls
+cd windows-virual
+clear
+ls
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+cd
+clear
+l
+clear
+ls
+mkdir público
+ls
+cd .config
+clear
+ls
+nvim user-dirs.dirs
+cd ..
+celar
+clear
+ls
+cd projetos
+clear
+ls
+ cd windows-virual
+clear
+ls
+nvim windows-start.sh
+clear
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh
+nvim windows-start.sh
+sh windows-start.sh &
+ip link show
+clear
+ip addr
+ls
+cd ..
+cd ..
+clear
+ls
+ls -l
+chmod 777 público
+cleaer
+clear
+ls -l
+clear
+ip show addr
+ip addr show
+l
+cd projetos
+cd windows-virual
+clear
+ls
+cat windows-start.sh
+xkill
+clear
+exit
+exit
+clear
+startx
+exit
+cd projetos
+ls
+cd suckless
+clear
+ls
+cd ..
+clear
+ls
+cd scripts
+ls
+mv windows-virual ..
+clear
+cd ..
+clea
+ls
+ls
+ls windows-virual
+ls windows-virual
+ls
+cd windows-virual
+cd ..
+clear
+ls
+mv windows-virual windows-virtual
+ls
+clear
+ls
+cd projetos
+ls
+cd windows-virual
+clear
+ls
+mv windows-start.sh ..
+cd ..
+clear
+ls
+mv windows-virual scripts
+clear
+ls
+ls
+mv windows-start.sh scripts
+ls
+cd scripts
+clear
+ls
+nvim windows-start.sh
+clear
+cd ..
+ls
+cd scripts
+cd scripts
+l
+clear
+ls
+sh windows-start.sh &
+ls
+nvim windows-start.sh
+sh windows-start.sh &
+clear
+cd
+clear
+clear
+ls
+ls -l
+clear
+cd projetos
+clear
+ls
+cd windows-virtual
+clear
+ls
+cd ..
+clear
+l
+nnn
+cd scripts
+clear
+ls
+ls -l
+chmod +x windows-start.sh
+ls -l
+chmod +x windows-start.sh
+ls -l
+clear
+ls 
+nnn
+clear
+cd ..
+cd
+clear
+cat games/games_CLI.sh 
+bastet
+/home/sevle/público
+cd /home/sevle/público
+ls
+ip addr show
+clear
+ls
+cd ..
+celar
+clear
+ls
+cd projetos
+ls
+clear
+cd
+bastet
+bastet
+doas tethering 
+doas tethering 
+ls
+nnn
+nnn
+cd suckless
+ls
+cd projetos
+ls
+cd suckless
+clear
+ls
+clear
+ls
+cd ..
+neofetch
+nvim windows-start.sh
+windows-start.sh
+clear
+ls
+cd
+clear
+neofetch
+clear
+windows-start.sh
+windows-start.sh &
+cd projetos
+cd scripts
+clear
+ls
+nvim windows-start.sh
+nvim windows-start.sh
+nvim windows-start.sh
+clear
+ls
+cd 
+ls
+chown libvirt-qemu /home/sevle/público
+chown 
+chown --help
+chown --help | less
+chown -c libvirt-qemu /home/sevle/público
+clear
+ls
+cd projetos
+ls
+cd scripts
+clear
+ls
+ nvim windows-start.sh
+windows-start.sh &
+ls
+clear
+samba
+clear
+bluetoothctl
+clear
+cd
+bluetoothctl
+bluetoothctl show
+bluetoothctl
+clear
+doas tethering 
+clear
+doas apt install samba
+clear
+ls
+windows-start.sh &
+clear
+doas tethering
+clear
+neofetch
+clear
+bastet
+clear
+clear
+windows-start.sh &
+clear
+doas tethering
+ls
+cd internet
+ls
+mkdir godot
+mv Godot_v4.0.1-stable_linux.x86_64.zip godot
+cd godot
+clear
+ls
+unzip Godot_v4.0.1-stable_linux.x86_64.zip
+clear
+l
+ls
+./Godot_v4.0.1-stable_linux.x86_64
+ls
+clear
+cd
+clea
+clear
+windows-start.sh &
+clear
+neofetch
+nvim frae.sh
+cd projeto
+cd projetos
+l
+ls
+cd scripts
+clear
+l
+ls
+cd ..
+ls
+cd suckless
+clear
+ls
+cd dwm
+clear
+ls
+cd dwm-bar
+ls
+cd bar-functions
+clear
+ls
+cp dwm_weather.sh frase.sh
+nvim frae.sh
+exit
+ip addr show
+clear
+ls
+clear
+lsblk
+lsblk
+lsblk
+clear
+lsblk
+lsblk
+lsblk
+clear
+exit
+ls
+cd projeto
+cd projetos
+celar
+clear
+l
+clear
+l
+ls
+cd windows-virtual
+clear
+l
+ls
+clear
+ls
+ls -l
+ls
+clear
+ls
+cd
+clear
+l
+ls
+rm público
+clear
+exit
+ip link how
+ip link show
+exit
+cd projetos
+ls
+cd suckless
+clear
+ls
+cd dwm
+clear
+ls
+cd bar-functions
+ls
+cd ..
+clear
+ls
+cd dwm
+clear
+ls
+cd dwm-bar
+clear
+ls
+cd bar-functions
+clear
+ls
+nvim dwm_date.sh
+clear
+cd
+clear
+windows-start.sh
+windows-start.sh &
+clear
+ls
+cd projeto
+cd projetos
+clear
+ls
+cd scripts
+clear
+ls
+cd 
+mv windows-start.sh windows-start
+cd projetos/scripts
+clear
+mv windows-start.sh windows-start
+ls -l
+chmod 777 windows-start
+clear
+cd 
+cd projetos/scripts
+ls
+cat windows-start
+nvim windows-start
+nvim windows-start
+windows-start
+clear
+nvim windows-start
+windows-start
+nvim windows-start
+windows-start
+lsmod | grep tun
+doas adduser kvm
+doas adduser sevle kvm
+windows-start
+doas windows-start
+doas chmod 0666 /dev/net/tun
+clear
+windows-start
+doas windows-start
+doas windows-start
+nvim windows-start
+windows-start
+nvim windows-start
+windows-start
+clear
+doas systemctl poweroff
+clear
+startx
+clear
+btop
+startx
+ls
+ls -la
+clear
+uname -a
+clear
+ls
+ls
+cd projetos
+cd suckless
+clear
+ls
+ls
+cd dwm
+clear
+ls
+nvim config.h
+doas make clean install
+clear
+nvim
+ls
+cd projetos
+cd suckless
+clear
+ls
+cd dwm
+clear
+ls
+clear
+doas make clean install
+find ~/.mozilla/firefox
+ckear
+clear
+find ~/.mozilla/firefox -maxdepth 1 -type d -regextype egrep -regex '.*[a-zA-Z0-9]+.default.esr'
+exit
+$MOZILLA_USER_DIRECTORY2C
+$MOZILLA_USER_DIRECTORY
+exit
+MOZILLA_USER_DIRECTORY="$(find ~/.mozilla/firefox -maxdepth 1 -type d -regextype egrep -regex '.*[a-zA-Z0-9]+.default-esr')"
+echo $MOZILLA_USER_DIRECTORY
+exit
+find $MOZILLA_USER_DIRECTORY -maxdepth 1 -type d -name 'chrome'
+mkdir .mozilla/firefox/ouga74te.default-esr/chrome
+find $MOZILLA_USER_DIRECTORY -maxdepth 1 -type d -name 'chrome'
+MOZILLA_USER_DIRECTORY="$(find ~/.mozilla/firefox -maxdepth 1 -type d -regextype egrep -regex '.*[a-zA-Z0-9]+.default-esr')"
+find $MOZILLA_USER_DIRECTORY -maxdepth 1 -type d -name 'chrome'
+exit
+nnn
+clear
+ls
+cd projetos
+clear
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+cd ..
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+ls
+ls .mozilla
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh
+ls
+s
+ls
+ls
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh)"
+curl -Lo install.sh https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh\
+sh install.sh
+clear
+ls
+cd .mozilla
+clear
+ls
+cd firefox
+clear
+ls
+cd ouga74te.default-esr
+clear
+curl -Lo install.sh https://raw.githubusercontent.com/mut-ex/minimal-functional-fox/master/install.sh\
+sh install.sh
+cd
+clear
+ls
+cd projetos
+clear
+nvim install.sh
+clear
+ls
+sh install.sh
+mv install.sh ..
+clear
+ls
+cd ..
+clear
+ls
+sh install.sh
+nvim install.sh
+sh install.sh
+nvim install.sh
+sh install.sh
+nvim install.sh
+sh install.sh
+nvim install.sh
+sh install.sh
+ls
+rm install.sh
+clear
+ls
+cd internet
+ls
+nnn
+nnn
+ls
+nnn
+nvim nnnvim.sh
+mv nnnvim.sh ~/projetos/scripts/
+chmod +x nnnvim.sh ~/projetos/scripts/nnnvim.sh
+chmod +x ~/projetos/scripts/nnnvim.sh
+nnnvim
+cd projetos
+ls
+cd scripts
+clear
+ls
+nnvim.sh
+ls
+clear
+ls -la
+chmod 777 nnnvim.sh
+mv nnnvim.sh nnvim
+cd
+nnvim
+ls
+cd .config
+clear
+ls
+cd nnn
+clear
+ls
+nvim init.vim
+nnn
+nnn
+nnn
+ls
+cd .config
+clear
+ls
+cd nnn
+clear
+ls
+rm init.vim
+nvim nnnvim.sh
+chmod +x nnnvim.sh
+nnvim.sh
+sh nnvim.sh
+ls
+./nnnvim.sh
+rm nnnvim.sh
+cd
+clear
+nnn -c
+cd .config/nnn
+clear
+ls
+cd plugins
+clear
+ls
+nvim nnnrc
+cat nnnrc
+nnn
+clear
+cd ...
+cd ..
+clear
+ls
+doas apt remove nnn
+clear
+doas apt install ranger
+clear
+ranger
+alsamixer
+clear
+exit
+alsamixer
+clear
+exit
+nvim userChrome.css
+exit
+cd .mozilla/
+clear
+ls
+cd firefox
+clear
+ls
+cd ouga74te.default-esr
+clear
+ls
+CHROME="$HOME/.mozilla/firefox/ouga74te.default-esr/chrome/"
+echo $CHROME
+cd
+clear
+ls
+cd projeots
+cd projetos
+clear
+ls
+cd firefox
+cd firefox
+cd firefox-css
+clear
+ls
+CHROME_COPY="$HOME/projetos/firefox-css"
+echo $CHROME_COPY
+exit
+cd ~/.mozilla/firefox/ouga74te.default-esr/chrome
+ls
+ls ~/projetos/firefox-css
+[200~$CHROME="$HOME/.mozilla/firefox/ouga74te.default-esr/chrome/"
+$CHROME="$HOME/.mozilla/firefox/ouga74te.default-esr/chrome/"
+$CHROME=$HOME/.mozilla/
+cd
+ls
+cd internet
+clear
+ls
+cd minimal-functional-fox-master
+clear
+ls
+nvim install.sh
+exit
+cmatrix
+cmatrix
+cmatrix
+clear
+nvim ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+ls
+mv ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css .
+nvim ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+nvim ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+nvim ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+rm ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+clear
+ls
+nvim userChrome.css
+nvim ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+rm ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+nvim userChrome.css
+rm ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+.s
+clear
+ls
+mkdir ~/projetos/firefox-css
+clear
+ls
+mv userChrome.css ~/projetos/firefox-css
+clear
+ls
+clear
+ls
+cd projetos
+clear
+ls
+cd firefox-css
+clear
+ls
+cp userChrome.css ~/.mozilla/firefox/ouga74te.default-esr/chrome
+celar
+clear
+clear
+rm ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+ls
+nvim userChrome.css
+clear
+cp userChrome.css ~/.mozilla/firefox/ouga74te.default-esr/chrome
+rm ~/.mozilla/firefox/ouga74te.default-esr/chrome/userChrome.css
+clear
+ls
+rm userChrome.css
+clear
+clear
+ls
+cd
+clear
+ls
+cd internet
+clear
+ls
+mv userChrome.css ~/projetos/firefox-css
+cd
+cp ~/projetos/firefox-css/userChrome.css ~/.mozilla/firefox/ouga74te.default-esr/chrome
+clear
+clear
+ls
+cd projetos
+clear
+ls
+cd firefox-css
+clear
+ls
+nvim userChrome.css
+clear
+ls
+nvim change-firefox.sh
+clear
+cat change-firefox.sh
+sh change-firefox.sh
+clear
+ls
+nvim userChrome.css
+clear
+cd
+clear
+cmatrix
+neofetch
+clear
+ls
+cd projetos
+clear
+ls
+cd firefox-css
+clear
+ls
+nvim userChrome.css
+nvim userChrome.css
+clear
+cd ..
+ls
+cd firefox-css
+clear
+ls
+sh change-firefox.sh
+nvim userChrome.css
+sh change-firefox.sh
+rm userChrome.css ;mv ~/internet/userChrome.css .
+ls
+sh change-firefox.sh
+clear
+exit
+exit
+exit
+exit
+doas systemctl poweroff
+clear
+startx
+clear
+doas systemctl poweroff
+doas systemctl poweroff
+uname -a
+clear
+java --version
+clear
+alsamixer
+clear
+nvim ~/documentos/lembrar.txt
+clear
+bluetoothctl
+clear
+hcitool scan
+hcitool scan
+clear
+ls /usr/
+ls /usr/share/doc/bluez/
+hidd --connect 0C:EC:8D:19:45:90
+systemctl status bluetooth.service
+rfkill unblock bluetooth
+bluetoothctl
+bluetoothctl show
+bluetoothctl show
+bluetoothctl
+clear
+bluetoothctl show
+bluetoothctl
+clear
+bluetoothctl
+clear
+doas systemctl stop bluetooth.service
+clear
+systemctl status bluetooth.service
+clear
+uname -a
+clear
+exit
+ls
+cd internet
+clear
+ls
+cd godot
+clear
+ls
+./Godot_v4.0.1-stable_linux.x86_64
+clear
+lsblk
+doas mount /dev/sdb3 /mnt
+clear
+cd /mnt
+clear
+ls
+doas cp 'ECommercePrototipoSolution - 31.03.rar' ~/documentos
+doas cp godot-demos-master.zip ~/documentos
+clear
+cd ~/documentos
+clear
+ls
+mkdir godot
+mv godot-demos-master.zip godot
+cd godot
+clear
+ls
+unzip godot-demos-master.zip
+clear
+ls
+ls
+ls
+windows-start
+clear
+uname -a
+clear
+exit
+ls
+cd internet
+clear
+ls
+cd godot
+celar
+clear
+ls
+./Godot_v4.0.1-stable_linux.x86_64
+clear
+cd
+clear
+ls
+cd documentos
+clear
+ls
+cd godot
+ls
+cd
+clear
+ls
+cd internet
+clear
+ls
+cd godot
+clear
+./Godot_v4.0.1-stable_linux.x86_64
+clear
+./Godot_v4.0.1-stable_linux.x86_64
+clear
+./Godot_v4.0.1-stable_linux.x86_64
+clear
+cd
+clear
+cmatrix
+ls
+clear
+lsblk
+clear
+exit
+systemctl list-unit
+systemctl list-units
+clear
+systemctl list-jobs
+systemctl list-units
+systemctl list-unit-files
+clear
+doas systemctl disabled nmbd.service
+doas systemctl disable nmbd.service
+systemctl show-environment
+doas systemctl disable bluetooth.service
+doas systemctl unmask hwclock.service
+doas systemctl disable ModemManager.serviee
+doas systemctl disable ModemManager.service
+clear
+doas systemctl stop nmbd.service
+doas systemctl disable smbd.service
+clear
+doas systemctl stop smbd.service
+cmatrix
+cmatrix
+clear
+ls
+cd games
+clear
+ls
+cat games_CLI.sh
+bastet
+bastet
+bastet
+bastet
+clear
+cd
+clear
+uname -a
+clear
+btop
+cmatrix
+systemctl --help
+cmatrix
+cmatrix
+systemctl --help
+doas systemctl hibernate
+l
+clear
+windows-start
+clear
+windows-start &
+windows-start &
+windows-start &
+kill pid 531031
+ls imagens/wallpapers
+pwd
+alsamixer
+ls
+ls imagens
+ls imagens/wallpapers
+firefox imagens/wallpapers/CloseTheWorld.png
+firefox imagens/wallpapers/present_day.png
+firefox imagens/wallpapers/PresentTime.png
+firefox imagens/wallpapers/wired.png
+sudo nvim /etc/default/grub
+clear
+sudo update-grub
+doas systemctl poweroff
+clear
+startx
+clear
+startx
+clear
+startx
+alsamixer
+exit
+doas apt install cava
+cava
+clear
+ranger
+cd projetos
+clear
+ls
+cd suckless
+clear
+ls
+cd dwm
+clear
+ls
+mv dwm-statuscolors dwm-patch
+ls
+ranger
+clear
+https://github.com/Sevle/dotfiles.git
+git@github.com:Sevle/dotfiles.git
+cd
+git@github.com:Sevle/dotfiles.git
+https://github.com/Sevle/dotfiles.git
+git config --global user.name "Sevle"
+git config --global user.email "vitor.de.souza.948@gmail.com"
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+git config --global user.name "Sevle"
+git config --global user.email "vitor.de.souza.948@gmail.com"
+git clone https://github.com/Sevle/dotfiles
+cd projetos
+cd suckless
+clear
+git init
+git add .
+git commit -m "dotfiles"
+git remote add origin https://github.com/Sevle/dotfiles.git
+git push -u origin master
+git push -u origin master
+git remote add origin https://github.com/Sevle/dotfiles
+git push -u origin master
+yiffpornogayyiff
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git remote add origin https://github.com/Sevle/dotfiles.git
+cd
+sudo nvim /etc/default/grub
+firefox /home/sevle/imagens/wallpapers/CloseTheWorld.png
+ls
+cp /home/sevle/imagens/wallpapers/CloseTheWorld.png /boot/
+doas cp /home/sevle/imagens/wallpapers/CloseTheWorld.png /boot/
+ls /boot/
+lsblk
+ls /boot
+firefox /boot/CloseTheWorld.png
+doas update-grub
+doas systemctl poweroff
+clear
+startx
+alsamixer
+xrandr --listmonitors2C
+xrandr --listmonitors
+xrandr --output eDP-1 --brightness 0.5
+xrandr --output eDP-1 --brightness 0.2
+xrandr --output eDP-1 --brightness 0.1
+xrandr --output eDP-1 --brightness 0.05
+xrandr --output eDP-1 --brightness 0.2
+xrandr --output eDP-1 --brightness 0.5
+xrandr --output eDP-1 --brightness 0.25
+xrandr --output eDP-1 --brightness 1
+clear
+L
+faz o L
+fazuely
+nmcli dev wifi list
+ls
+ls -a
+cd .zshrc
+cd .zsh
+cd .config
+clear
+cd zsh
+clear
+ls
+cat zsh_history | grep 'nmcli' | less
+cat zsh_history | grep 'nmcli'
+nmcli --help
+nmcli connect
+nmcli dev wifi list
+nmcli connect Milka_dona_da_casa
+nmcli connect 
+nmcli -a Milka_dona_da_casa
+nmcli 
+nmcli dev show
+nmcli --help
+cd
+cd projetos
+clear
+ls
+cd scripts
+clearl
+ckear
+clear
+ls
+cat conectar-escola
+cat conectar-florida
+nmcli device wifi connect -a "Milka_dona_da_casa"
+nmcli device wifi connect -a "Milka_dona_da_casa"
+alsamixer
+exit
+ls
+rm -rf dotfiles
+clear
+ranger
+ls
+cd projetos
+clear
+ls
+cd suckless
+clear
+l
+ls
+cd dwm
+clear
+ls
+nvim config.h
+\:q
+cd .
+ls .
+cd
+cd projetos
+cd scripts
+ls
+cat conectar-escola
+nmcli dev wifi connect -a "Milka_dona_da_casa"
+clear
+c
+cd
+clear
+ls
