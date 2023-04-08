@@ -1,13 +1,24 @@
 #!/bin/sh
 
-WINDOWS_ISO="$HOME/projetos/windows-virtual/WindowsOS.iso"
-DISK_SPACE="$HOME/projetos/windows-virtual/disk.qcow2"
-PUBLIC="$HOME/público"
+USER="sevle"
+PUBLIC="/home/$USER/público"
+WINDOWS_PROJECT="/home/$USER/projetos/windows-virtual"
 
-qemu-system-x86_64 -smp threads=2 -boot d -cdrom $WINDOWS_ISO -m 2G -drive file=$DISK_SPACE \
-    -virtfs local,path=$PUBLIC,mount_tag=host0,security_model=passthrough -device intel-hda \
-    -device hda-duplex -netdev user,id=user0 -device e1000,netdev=user0 -enable-kvm
+WINDOWS_ISO="$WINDOWS_PROJECT/WindowsOS.iso"
+DISK_IMAGE="$WINDOWS_PROJECT/disk.qcow2"
 
-# \\10.0.2.2\host
-# -netdev tap,id=net1,ifname=wlo1,script=no,downscript=no
-# -device e1000,netdev=user1
+qemu-system-x86_64 \
+    -runas $USER \
+    -smp $(nproc) \
+    -cpu host \
+    -m 2G \
+    -boot d \
+    -cdrom $WINDOWS_ISO \
+    -rtc base=localtime \
+    -drive file="$DISK_IMAGE",cache=writeback \
+    -drive file="fat:rw:$PUBLIC",format=raw \
+    -device intel-hda \
+    -device hda-duplex \
+    -device virtio-net-pci,netdev=net0,mac=52:54:00:12:34:56 \
+    -netdev bridge,id=net0,br=br0 \
+    -enable-kvm \
