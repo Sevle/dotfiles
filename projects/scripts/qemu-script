@@ -1,11 +1,24 @@
-#!/bin/sh
+#!/bin/bash
 
 USER="sevle"
 PUBLIC="/home/$USER/público"
-WINDOWS_PROJECT="/home/$USER/projetos/windows-virtual"
+PROJECT="/home/$USER/projetos/virtual-machines/"
 
-WINDOWS_ISO="$WINDOWS_PROJECT/WindowsOS.iso"
-DISK_IMAGE="$WINDOWS_PROJECT/disk.qcow2"
+echo "2 para windows, 1 para gentoo"
+read CHOOSE
+
+if [ $CHOOSE -eq 1 ]; then
+    OS="$PROJECT/gentoo-virtual/"
+
+elif [ $CHOOSE -eq 2 ]; then
+    OS="$PROJECT/windows-virtual/"
+
+else 
+    echo "td errado, olha so q disgraça"
+fi    
+
+ISO=$(find $OS -type f -name "*.iso")
+DISK_IMAGE=$(find $OS -type f -name "*.qcow2")
 
 qemu-system-x86_64 \
     -runas $USER \
@@ -13,7 +26,7 @@ qemu-system-x86_64 \
     -cpu host \
     -m 2G \
     -boot d \
-    -cdrom $WINDOWS_ISO \
+    -cdrom $ISO \
     -rtc base=localtime \
     -drive file="$DISK_IMAGE",cache=writeback \
     -drive file="fat:rw:$PUBLIC",format=raw \
