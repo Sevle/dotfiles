@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Aumentar o volume em 5% usando o ALSA
+
+# Verificar se o mixer está instalado
+if ! command -v amixer &> /dev/null; then
+    echo "O mixer não está instalado. Instale-o e tente novamente."
+    exit 1
+fi
+
+# Obter o nível atual do volume
+current_level=$(amixer get Master | grep -oE '[[:digit:]]+%' | head -n1 | sed 's/%//')
+
+# Calcular o novo nível do volume
+new_level=$((current_level + 5))
+
+# Verificar se o novo nível é maior do que 100%
+if [ $new_level -gt 100 ]; then
+    new_level=100
+fi
+
+# Aumentar o volume
+amixer set Master "${new_level}%"

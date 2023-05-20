@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# obter o endereço IP da interface de rede wlo1
+ip_address=$(ip address show wlo1 | grep 'inet ' | awk '{print $2}')
+
+# remover a máscara de rede do endereço IP
+ip_address=${ip_address%/*}
+
+echo "Endereço IP da interface wlo1: $ip_address"

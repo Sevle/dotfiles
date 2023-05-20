@@ -1,0 +1,7 @@
+#!/bin/bash
+
+read -p "Pesquisa: " filter
+
+zsh_history="$HOME/.config/zsh/zsh_history"
+
+cat "$zsh_history" | grep "$filter" | less

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+nmcli device wifi connect \
+-a "eduroam" \
+-e "EAP-TTLS" \
+-i "20211tii0305" \
+-s "Texas1994#%#"

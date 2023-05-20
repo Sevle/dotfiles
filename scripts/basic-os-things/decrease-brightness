@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Define o valor de brilho atual e o incremento
+brightness=$(xrandr --verbose | grep -i brightness | cut -f2 -d ' ')
+decrease=0.05
+
+# Calcula o novo valor de brilho
+new_brightness=$(echo "$brightness - $decrease" | bc)
+
+# Verifica se o novo valor de brilho não é menor que 0 (valor mínimo)
+if (( $(echo "$new_brightness < 0" | bc -l) )); then
+  new_brightness=1
+fi
+
+display="$(xrandr --query | awk '/ primary / {print $1}')"
+
+# Aplica o novo valor de brilho
+xrandr --output $display --brightness $new_brightness
